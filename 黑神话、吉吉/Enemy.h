@@ -6,7 +6,7 @@
 #include <fstream>
 
 #include"role.h"
-
+//
 using namespace std;
 
 class Enemy {
